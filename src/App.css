@@ -2,6 +2,45 @@
   text-align: center;
 }
 
+.gridWrapper {
+  display: grid;
+  grid-template-rows: 50% 50%;
+  grid-template-columns: 50% 50%;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+}
+
+.title {
+  position: absolute;
+  z-index: 99;
+  top: 42%;
+  left: 38%;
+}
+
+.titleText {
+  font-size: 5vh;
+  font-weight: bolder;
+}
+
+.tocItem {
+  height: 100%;
+  width: 100%;
+  filter: blur(2px);
+  transition: .5s ease;
+  cursor: pointer;
+}
+
+.tocItem:hover {
+  filter: blur(0);
+}
+
+.page {
+  width: 100vw;
+  height: 100vh;
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
