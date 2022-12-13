@@ -11,6 +11,7 @@ function App() {
       <div className='gridWrapper'>
         <div className='title'>
           <Text className='titleText'>CS1300 Final Portfolio</Text>
+          <Text>Hover over project links to preview!</Text>
         </div>
         <a href='#development' className='tocItem'>
           <video width="100%" height="100%" autoPlay muted loop>
@@ -27,7 +28,11 @@ function App() {
             <source src={require('./croppedRedesign.mp4')} type="video/mp4"></source>
           </video>
         </a>
-        <div className='tocItem'>1</div>
+        <a href='#personas' className='tocItem'>
+          <video width="100%" height="100%" autoPlay muted loop>
+            <source src={require('./croppedPersonas.mp4')} type="video/mp4"></source>
+          </video>
+        </a>
       </div>
 
       <div className='page' id='development'>
@@ -38,7 +43,7 @@ function App() {
 
       <div className='page' id='redesign'>redesign</div>
       
-      <div className='page'></div>
+      <div className='page' id='personas'>personas</div>
 
     </div>
   );
