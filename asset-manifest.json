@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/final_website/static/css/main.d904e8b2.css",
-    "main.js": "/final_website/static/js/main.eac9bb9d.js",
+    "main.css": "/final_website/static/css/main.f8f36168.css",
+    "main.js": "/final_website/static/js/main.90e825d7.js",
     "static/js/787.882ae358.chunk.js": "/final_website/static/js/787.882ae358.chunk.js",
     "static/media/croppedRedesign.mp4": "/final_website/static/media/croppedRedesign.b2247f41c74db612c9ab.mp4",
     "static/media/croppedPersonas.mp4": "/final_website/static/media/croppedPersonas.0ead449cb25b7d26e168.mp4",
     "static/media/croppedDevelopment.mp4": "/final_website/static/media/croppedDevelopment.7deb81e5ff9cdfae1194.mp4",
+    "static/media/empathyMap.png": "/final_website/static/media/empathyMap.5e5371e085109be3f9f4.png",
     "static/media/croppedPivo.mp4": "/final_website/static/media/croppedPivo.5fe48b87530083f0c94a.mp4",
+    "static/media/remoteSS.png": "/final_website/static/media/remoteSS.0d2c44030cdd9e923a6b.png",
+    "static/media/kiwi.PNG": "/final_website/static/media/kiwi.27b0f48a052ee805a406.PNG",
     "index.html": "/final_website/index.html",
-    "main.d904e8b2.css.map": "/final_website/static/css/main.d904e8b2.css.map",
-    "main.eac9bb9d.js.map": "/final_website/static/js/main.eac9bb9d.js.map",
+    "main.f8f36168.css.map": "/final_website/static/css/main.f8f36168.css.map",
+    "main.90e825d7.js.map": "/final_website/static/js/main.90e825d7.js.map",
     "787.882ae358.chunk.js.map": "/final_website/static/js/787.882ae358.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d904e8b2.css",
-    "static/js/main.eac9bb9d.js"
+    "static/css/main.f8f36168.css",
+    "static/js/main.90e825d7.js"
   ]
 }
