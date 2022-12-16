@@ -126,12 +126,14 @@
 
 .personaImages {
   max-width: 25vw;
-  max-height: 100vh;
+  max-height: 80vh;
 }
 
 .projectBullets {
   margin-left: 20%;
   margin-right: 20%;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
   display: flex;
   flex-direction: column;
   text-align: start;
@@ -141,6 +143,24 @@
 .projectBulletItem {
   display: flex;
   flex-direction: row;
+}
+
+.pivoImages {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pivoImage {
+  max-width: 50vw;
+  max-height: 40vh;
+}
+
+.developmentImage {
+  display: flex;
+  flex-direction: column;
+  max-width: 50vw;
+  max-height: 80vh;
 }
 
 .App-logo {
