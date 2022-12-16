@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/final_website/static/css/main.f8f36168.css",
-    "main.js": "/final_website/static/js/main.90e825d7.js",
+    "main.css": "/final_website/static/css/main.022b045e.css",
+    "main.js": "/final_website/static/js/main.4daf9b19.js",
     "static/js/787.882ae358.chunk.js": "/final_website/static/js/787.882ae358.chunk.js",
     "static/media/croppedRedesign.mp4": "/final_website/static/media/croppedRedesign.b2247f41c74db612c9ab.mp4",
     "static/media/croppedPersonas.mp4": "/final_website/static/media/croppedPersonas.0ead449cb25b7d26e168.mp4",
+    "static/media/finalRedesignPhone - Copy.jpg": "/final_website/static/media/finalRedesignPhone - Copy.703d698ec76f402a3d7e.jpg",
     "static/media/croppedDevelopment.mp4": "/final_website/static/media/croppedDevelopment.7deb81e5ff9cdfae1194.mp4",
     "static/media/empathyMap.png": "/final_website/static/media/empathyMap.5e5371e085109be3f9f4.png",
     "static/media/croppedPivo.mp4": "/final_website/static/media/croppedPivo.5fe48b87530083f0c94a.mp4",
     "static/media/remoteSS.png": "/final_website/static/media/remoteSS.0d2c44030cdd9e923a6b.png",
+    "static/media/developmentSS.PNG": "/final_website/static/media/developmentSS.b23f7732cf78c55c68af.PNG",
+    "static/media/craigslistPhoneSS.PNG": "/final_website/static/media/craigslistPhoneSS.a28c6ebea0dbf2101641.PNG",
     "static/media/kiwi.PNG": "/final_website/static/media/kiwi.27b0f48a052ee805a406.PNG",
+    "static/media/pivoLofi.png": "/final_website/static/media/pivoLofi.13e48a4dc4673db8365a.png",
+    "static/media/pivoFinal.PNG": "/final_website/static/media/pivoFinal.431b9ce195abc36090c8.PNG",
     "index.html": "/final_website/index.html",
-    "main.f8f36168.css.map": "/final_website/static/css/main.f8f36168.css.map",
-    "main.90e825d7.js.map": "/final_website/static/js/main.90e825d7.js.map",
+    "main.022b045e.css.map": "/final_website/static/css/main.022b045e.css.map",
+    "main.4daf9b19.js.map": "/final_website/static/js/main.4daf9b19.js.map",
     "787.882ae358.chunk.js.map": "/final_website/static/js/787.882ae358.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8f36168.css",
-    "static/js/main.90e825d7.js"
+    "static/css/main.022b045e.css",
+    "static/js/main.4daf9b19.js"
   ]
 }
