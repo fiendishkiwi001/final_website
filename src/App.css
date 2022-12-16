@@ -46,6 +46,34 @@
   height: 100vh;
 }
 
+.aboutMe {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.kiwi {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+}
+
+.biography {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  padding-left: 2.5%;
+}
+
+.hi {
+  display: flex;
+  flex-direction: row;
+  text-align: start;
+}
+
+.bullets {
+  margin-left: 10%;
+}
 
 .App-logo {
   height: 40vmin;
